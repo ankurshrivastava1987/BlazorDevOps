@@ -1,0 +1,1 @@
+# BlazorDevOps by azure pipeline
